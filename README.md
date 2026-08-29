@@ -2,7 +2,7 @@
 
 A practical deployment demonstrating how to secure public-facing web infrastructure using Cloudflare Zero Trust, Identity and Access Management (IAM) controls, and Role-Based Access Control (RBAC). 
 
-**Live Environment:** [Insert your .pages.dev link here]
+**Live Environment:** [cloudflare-zerotrust-lab.pages.dev]
 *(Note: Access is restricted to authorized administrators only via Cloudflare Access).*
 
 ## Project Architecture 
